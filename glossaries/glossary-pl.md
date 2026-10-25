@@ -1052,3 +1052,13 @@ Translation choices for `media/tts-setup.md` in #7763, matching English source `
 
 - **Roleplay speaker extractor** is glossed once as *(rozpoznawanie mówców w trybie Roleplay)*, using the guide's speaker-detection wording with the mode carrier required by R-14.
 - **Enable emotion indicators** is glossed once as *(włącz oznaczenia emocji)*. Later prose uses *oznaczenia emocji*; voice directions are *wskazówki dotyczące głosu*.
+
+## Novel Mode (2026-10-24)
+
+Precedent from the Novel Mode sync (`roleplay/novel-mode.md`, plus the built-in preset lines in `prompts/presets.md`, `prompts/generation-parameters.md` and `roleplay/getting-started.md`). Machine-translated; pending native review.
+
+- **Novel Mode** stays English and undeclined; where a case is needed it takes the carrier `tryb` (*w trybie Novel Mode*). A novel is **powieść**. The display-style label **Novel** is glossed (powieść).
+- A *passage* is **fragment**; *paragraph* stays **akapit**. *Protagonist* is **protagonista** (declines: *protagonisty, protagonistę*); *manuscript* **rękopis**; *story bible* **biblia historii**; *cast* **obsada**.
+- *Guidance* for the next passage is **wskazówka**, matching **Stored guidance** (zapisana wskazówka).
+- Link text to `roleplay/novel-mode.md` is a prefix of its H1 (`[Novel Mode]`), per R-129.
+- **Merged** is glossed (scalone); **Keep writing, or press Send…** (pisz dalej albo naciśnij Send).

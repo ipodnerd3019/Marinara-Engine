@@ -12,7 +12,7 @@ Tryb Roleplay korzysta też z pomocników zwanych agentami. Agent to małe zadan
 
 Do korzystania z trybu Roleplay generowanie obrazów nie jest potrzebne. Bez niego tryb nadal działa jako czat tekstowy. Miejsca na sprite'y zostają puste, tło ma jednolity kolor, a HUD dalej wszystko śledzi. Jak skonfigurować połączenie, opisuje przewodnik [Łączenie z dostawcą AI](../connections/connecting-to-a-provider.md).
 
-Wybierz tryb Roleplay, gdy zależy ci na wciągającej scenie. Do zwykłego czatu z wiadomościami wybierz [tryb Conversation](../conversation/getting-started.md). Do uporządkowanej gry fabularnej z drużyną, walką i rzutami kością wybierz [Game Mode](../game/getting-started.md).
+Wybierz tryb Roleplay, gdy zależy ci na wciągającej scenie. Do zwykłego czatu z wiadomościami wybierz [tryb Conversation](../conversation/getting-started.md). Do uporządkowanej gry fabularnej z drużyną, walką i rzutami kością wybierz [Game Mode](../game/getting-started.md). Jeśli chcesz pisać historię na jednej stronie, a AI ma pisać także twojego protagonistę, zacznij zamiast tego powieść w trybie [Novel Mode](novel-mode.md).
 
 ## Jak zacząć roleplay
 

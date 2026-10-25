@@ -10,7 +10,7 @@
 
 프리셋에는 API 키도 계정도 필요하지 않습니다. 프롬프트를 어떻게 조립할지만 정해 둔 것이기 때문입니다. 프롬프트를 실제로 보내려면 정상 동작하는 연결이 따로 있어야 합니다. [AI 제공자에 연결하기](../connections/connecting-to-a-provider.md)를 참고하세요.
 
-기본 제공 **Marinara's Universal Preset**(Marinara 범용 프리셋)은 생성 파라미터를 지정하지 않고 프롬프트 텍스트를 제공합니다. 이전에 저장한 샘플링, 추론, 서식, 토큰 설정은 무시됩니다. 연결 설정, 채팅별 덮어쓰기, Engine 기본값은 계속 적용됩니다. 프리셋을 사용자 지정하려면 수정 가능한 복사본을 만드세요.
+기본 제공 프리셋인 **Marinara's Universal Preset**(Marinara 범용 프리셋)과 **Marinara's Novel Preset**(Marinara 소설 프리셋)은 생성 파라미터를 지정하지 않고 프롬프트 텍스트를 제공합니다. 이전에 저장한 샘플링, 추론, 서식, 토큰 설정은 무시됩니다. 연결 설정, 채팅별 덮어쓰기, Engine 기본값은 계속 적용됩니다. 기본 제공 프리셋은 읽기 전용이며 삭제할 수 없습니다. 프리셋을 사용자 지정하려면 수정 가능한 복사본을 만드세요. 새 채팅은 기본적으로 Marinara's Universal Preset을 사용하고, [Novel Mode](../roleplay/novel-mode.md)는 Marinara's Novel Preset을 사용합니다.
 
 ## Preset Editor 열기
 

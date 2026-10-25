@@ -10,7 +10,7 @@
 
 プリセットの作成にAPIキーやアカウントは要りません。プロンプトの組み立て方を書き表すだけだからです。プロンプトを実際に送るには、動作する接続が別に必要です。[AIプロバイダーへの接続](../connections/connecting-to-a-provider.md)を参照してください。
 
-組み込みの**Marinara's Universal Preset**(Marinaraの汎用プリセット)は、生成パラメーターを指定せずにプロンプトの文章を提供します。以前に保存されたサンプリング、推論、書式、トークンの設定は無視されます。接続の設定、チャット固有の上書き、Engineのデフォルトは引き続き適用されます。カスタマイズするには編集可能なコピーを作成してください。
+組み込みプリセットの**Marinara's Universal Preset**(Marinaraの汎用プリセット)と**Marinara's Novel Preset**(Marinaraの小説用プリセット)は、生成パラメーターを指定せずにプロンプトの文章を提供します。以前に保存されたサンプリング、推論、書式、トークンの設定は無視されます。接続の設定、チャット固有の上書き、Engineのデフォルトは引き続き適用されます。組み込みプリセットは読み取り専用で、削除できません。カスタマイズするには編集可能なコピーを作成してください。新しいチャットはデフォルトでMarinara's Universal Presetを使い、[Novel Mode: AIと一緒に物語を書く](../roleplay/novel-mode.md)で説明しているNovel ModeはMarinara's Novel Presetを使います。
 
 ## Preset Editorを開く
 

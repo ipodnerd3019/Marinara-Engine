@@ -12,7 +12,7 @@ Roleplay setzt außerdem auf Helfer, die Agenten heißen. Ein Agent ist eine kle
 
 Für Roleplay Mode brauchst du keine Bildgenerierung. Ohne sie funktioniert der Modus weiterhin als reiner Text-Chat. Die Sprite-Plätze bleiben leer, der Hintergrund zeigt eine einfarbige Fläche, und das HUD führt trotzdem alles mit. Wie du eine Verbindung einrichtest, steht unter [Mit einem KI-Anbieter verbinden](../connections/connecting-to-a-provider.md).
 
-Nimm Roleplay Mode, wenn du eine Szene zum Eintauchen willst. Für schlichtes Chatten wie in einem Messenger nimm [Conversation Mode](../conversation/getting-started.md). Für ein strukturiertes Rollenspiel mit Party, Kampf und Würfeln nimm [Game Mode](../game/getting-started.md).
+Nimm Roleplay Mode, wenn du eine Szene zum Eintauchen willst. Für schlichtes Chatten wie in einem Messenger nimm [Conversation Mode](../conversation/getting-started.md). Für ein strukturiertes Rollenspiel mit Party, Kampf und Würfeln nimm [Game Mode](../game/getting-started.md). Willst du eine Geschichte auf einer einzigen Seite schreiben, bei der die KI auch deinen Protagonisten schreibt, beginn stattdessen einen [Roman](novel-mode.md).
 
 ## Eine Rollenspielrunde starten
 

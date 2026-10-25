@@ -815,3 +815,12 @@ Precedents from the release catch-up against Engine `staging` `dcae41337`:
   „Medienformatierungsanfragen in Warteschlange einreihen“ mistranslates
   *generation*; do not copy it into the docs. The UI string is left for a separate
   correction.
+
+## Novel Mode (2026-10-24)
+
+Precedent from the Novel Mode sync (`roleplay/novel-mode.md`, plus the built-in preset lines in `prompts/presets.md`, `prompts/generation-parameters.md` and `roleplay/getting-started.md`). Machine-translated; pending native review.
+
+- **Novel Mode** stays English, like the other mode names; a novel is **der Roman** (pl. *Romane*). The display-style label **Novel** is glossed *(Roman)*.
+- A *passage* (one AI or user contribution to the page) is **die Passage**; *paragraph* stays **der Absatz**. *Protagonist* is **der Protagonist** (n-declension: *den/dem Protagonisten*). *Manuscript* is **das Manuskript**; *story bible* is **die Story-Bible** with a one-time explanation.
+- *Guidance* for the next passage is **die Vorgabe**, as in `chats/messages.md` and `chats/guided-and-impersonate.md`. **Marinara's Novel Preset** stays unglossed, like Marinara's Universal Preset.
+- **Merged** is glossed *(zusammengeführt)*; **Keep writing, or press Send…** *(weiterschreiben oder Senden drücken)*.

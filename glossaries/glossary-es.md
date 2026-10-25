@@ -465,3 +465,12 @@ Precedent from the #7763 sync (`media/tts-setup.md`):
 
 - **Roleplay speaker extractor** is glossed **(Identificación de hablantes en Roleplay)**.
 - **Enable emotion indicators** is glossed **(Activar indicadores de emoción)**.
+
+## Novel Mode (2026-10-24)
+
+Precedent from the Novel Mode sync (`roleplay/novel-mode.md`, plus the built-in preset lines in `prompts/presets.md`, `prompts/generation-parameters.md` and `roleplay/getting-started.md`). Machine-translated; pending native review.
+
+- **Novel Mode** stays whole in English, like Game Mode; a novel is **la novela**. The display-style label **Novel** is glossed (Novela).
+- A *passage* is **el pasaje**; *paragraph* stays **el párrafo**. *Protagonist* is **el protagonista**; *manuscript* **el manuscrito**; *story bible* **la biblia de la historia**; *cast* **el elenco**.
+- *Guidance* for the next passage is **la instrucción** (as in `chats/guided-and-impersonate.md`); **Stored guidance** keeps the UI gloss (Guía guardada).
+- **Merged** is glossed (fusionado); **Keep writing, or press Send…** (Sigue escribiendo o pulsa Enviar).

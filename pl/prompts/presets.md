@@ -10,7 +10,7 @@ Presety kształtują prompt (tekst, który Marinara wysyła do AI) w czatach **R
 
 Presety nie wymagają klucza API (tajnego kodu, trochę jak hasło) ani konta. Opisują tylko sposób budowania promptu. Do wysłania promptu i tak potrzebne jest działające połączenie. Zobacz [Łączenie z dostawcą AI](../connections/connecting-to-a-provider.md).
 
-Wbudowany **Marinara's Universal Preset** dostarcza tekst promptu bez przypisywania parametrów generowania. Jego wcześniejsze zapisane ustawienia próbkowania, rozumowania, formatowania i tokenów są ignorowane. Nadal obowiązują ustawienia połączenia, nadpisania czatu i wartości domyślne Engine. Utwórz edytowalną kopię, aby dostosować preset.
+Wbudowane presety, **Marinara's Universal Preset** i **Marinara's Novel Preset**, dostarczają tekst promptu bez przypisywania parametrów generowania. Ich wcześniejsze zapisane ustawienia próbkowania, rozumowania, formatowania i tokenów są ignorowane. Nadal obowiązują ustawienia połączenia, nadpisania czatu i wartości domyślne Engine. Wbudowane presety są tylko do odczytu i nie da się ich usunąć. Utwórz edytowalną kopię, aby dostosować jeden z nich. Nowe czaty domyślnie używają Marinara's Universal Preset; [Novel Mode](../roleplay/novel-mode.md) używa Marinara's Novel Preset.
 
 ## Otwieranie panelu Preset Editor
 

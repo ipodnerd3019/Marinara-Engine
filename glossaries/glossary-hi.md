@@ -809,3 +809,12 @@ Precedents from the #7763 sync (`media/tts-setup.md`):
 - **Enable emotion indicators** (भाव के संकेत चालू करें)
 
 These are translation choices, not a new native-reader review.
+
+## Novel Mode (2026-10-24)
+
+Precedent from the Novel Mode sync (`roleplay/novel-mode.md`, plus the built-in preset lines in `prompts/presets.md`, `prompts/generation-parameters.md` and `roleplay/getting-started.md`). Machine-translated; pending native review.
+
+- **Novel Mode** stays Latin, glossed once as Novel Mode (नॉवेल मोड); a novel is **उपन्यास** (masc.). The display-style label **Novel** is glossed (उपन्यास).
+- A *passage* is **अंश** (masc.); *paragraph* stays **पैराग्राफ़**. *Protagonist* is **मुख्य कैरेक्टर** (not किरदार, which is banned); *manuscript* **पांडुलिपि**; *story bible* **कहानी की संदर्भ-पुस्तिका**.
+- *Guidance* for the next passage is **दिशा** (fem.), matching **Stored guidance** (सेव की हुई दिशा).
+- **Marinara's Novel Preset** is glossed (Marinara का नॉवेल प्रीसेट). **Merged** is glossed (मिला हुआ).

@@ -12,7 +12,7 @@ Roleplayではエージェントと呼ばれる補助の仕組みも使います
 
 Roleplayモードを使うのに画像生成は必要ありません。画像生成がなくても、テキストだけのチャットとして問題なく動きます。スプライトの枠は空のまま、背景は単色になりますが、HUDはこれまでどおりすべてを追跡します。接続の設定方法は[AIプロバイダーへの接続](../connections/connecting-to-a-provider.md)を参照してください。
 
-没入感のあるシーンを楽しみたいときはRoleplayモードを選びます。ふつうのメッセージ形式のチャットには[Conversationモード: はじめに](../conversation/getting-started.md)を選びます。パーティー、戦闘、ダイスを備えた本格的なロールプレイングゲームには[Game Mode: はじめに](../game/getting-started.md)を選びます。
+没入感のあるシーンを楽しみたいときはRoleplayモードを選びます。ふつうのメッセージ形式のチャットには[Conversationモード: はじめに](../conversation/getting-started.md)を選びます。パーティー、戦闘、ダイスを備えた本格的なロールプレイングゲームには[Game Mode: はじめに](../game/getting-started.md)を選びます。AIが自分の主人公も書く、1ページの物語を書きたいときは、代わりに[Novel Mode: AIと一緒に物語を書く](novel-mode.md)の手順で小説を始めてください。
 
 ## ロールプレイの始め方
 

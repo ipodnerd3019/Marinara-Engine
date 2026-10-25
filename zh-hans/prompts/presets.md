@@ -10,7 +10,7 @@
 
 预设本身不需要 API 密钥，也不需要账号，它只描述提示词怎么拼出来。要真正把提示词发出去，还是得有一个能用的连接。见[连接 AI 服务商](../connections/connecting-to-a-provider.md)。
 
-内置的 **Marinara's Universal Preset**(Marinara 通用预设) 只提供提示词文字，不指定生成参数。旧版保存的采样、推理、格式和 Token 设置会被忽略。连接设置、聊天覆盖值和 Engine 默认值仍然生效。要自定义该预设，请创建可编辑副本。
+内置预设 **Marinara's Universal Preset**(Marinara 通用预设) 和 **Marinara's Novel Preset**(Marinara 小说预设) 只提供提示词文字，不指定生成参数。它们旧版保存的采样、推理、格式和 Token 设置会被忽略。连接设置、聊天覆盖值和 Engine 默认值仍然生效。内置预设是只读的，不能删除。要自定义其中一个，请创建可编辑副本。新聊天默认使用 Marinara's Universal Preset；[Novel Mode](../roleplay/novel-mode.md) 使用 Marinara's Novel Preset。
 
 ## 打开 Preset Editor
 

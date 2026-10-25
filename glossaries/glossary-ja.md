@@ -568,3 +568,13 @@ Choices from the #7763 sync (`media/tts-setup.md`) against `staging` `5ae55e73`.
 | **Enable emotion indicators** | **Enable emotion indicators**(感情表現の指示を使う) |
 
 These are translation choices, not a new native-reader review.
+
+## Novel Mode (2026-10-24)
+
+Precedent from the Novel Mode sync (`roleplay/novel-mode.md`, plus the built-in preset lines in `prompts/presets.md`, `prompts/generation-parameters.md` and `roleplay/getting-started.md`). Machine-translated; pending native review.
+
+- **Novel Mode** stays Latin; a novel is **小説**. The display-style label **Novel** is glossed (小説).
+- A *passage* is **パッセージ**, introduced once as 「ひとまとまりの文章(パッセージ)」; *paragraph* stays **段落**. *Protagonist* is **主人公**; *manuscript* **原稿**; *story bible* **物語の設定資料**; *cast* **登場人物**.
+- *Guidance* for the next passage is **指示**, matching **Stored guidance**(保存された指示).
+- **Marinara's Novel Preset** is glossed (Marinaraの小説用プリセット). Link text to `roleplay/novel-mode.md` is its full H1.
+- Reader-side "your protagonist/persona" is rendered **自分の主人公/自分のペルソナ** (no あなた).

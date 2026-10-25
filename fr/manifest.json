@@ -1,6 +1,6 @@
 {
   "language": "fr",
-  "sourceCommit": "3a7081f3223f112860e59550d863c8418849ca69",
+  "sourceCommit": "edb844724392db8b01f8a403c7f384dd5d83a396",
   "files": [
     {
       "path": "CONFIGURATION.md",
@@ -649,8 +649,8 @@
     },
     {
       "path": "prompts/generation-parameters.md",
-      "sha256": "73bf0dec99197bf7c35e35dee77e78c17d987a4b0aa1cf32533290cf7aeb120d",
-      "bytes": 24704
+      "sha256": "9ccd691cc458c768b82ff68371316918d9d9b8b569b74681f3021caf21af1bc0",
+      "bytes": 24754
     },
     {
       "path": "prompts/macros.md",
@@ -664,8 +664,8 @@
     },
     {
       "path": "prompts/presets.md",
-      "sha256": "5f38a279e002d1d04908130e149ab5370ed231b3f4991128f77e53f2940b1906",
-      "bytes": 16029
+      "sha256": "740eb729c0c9d8ebd0d75f4dcfacf37e2c99233c35affa39226978ce45f1c52b",
+      "bytes": 16299
     },
     {
       "path": "prompts/prompt-overrides.md",
@@ -684,8 +684,8 @@
     },
     {
       "path": "roleplay/getting-started.md",
-      "sha256": "627ade6c25d2bf761407d725be4795ae393f8f7943bd79abab475a79ad921586",
-      "bytes": 24934
+      "sha256": "fd6a1817a3e85c1e2627c4f6854f3e3f35c0a1f0c356831b039376693f63d673",
+      "bytes": 25063
     },
     {
       "path": "roleplay/hud-and-trackers.md",
@@ -696,6 +696,11 @@
       "path": "roleplay/narrative-director.md",
       "sha256": "8775681175a670b295e56d6545868fa7e8daec4d7aca2ab0a8763e4d6b68ab35",
       "bytes": 7675
+    },
+    {
+      "path": "roleplay/novel-mode.md",
+      "sha256": "9482376f90fc3f70d78f1c2ae016f18c486ec54184a1c90e70bcede3eadd12d0",
+      "bytes": 11605
     },
     {
       "path": "roleplay/scenes.md",

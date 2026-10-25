@@ -661,3 +661,12 @@ Cycle precedent for #7605 (`agents/memory.md`: the new Character recollections s
 | knowledge start | 지식 범위가 시작되기 전, following the file's 지식 범위 for "knowledge range" |
 
 These are translation choices, not a new native-reader review.
+
+## Novel Mode (2026-10-24)
+
+Precedent from the Novel Mode sync (`roleplay/novel-mode.md`, plus the built-in preset lines in `prompts/presets.md`, `prompts/generation-parameters.md` and `roleplay/getting-started.md`). Machine-translated; pending native review.
+
+- **Novel Mode** stays Latin and is glossed once as Novel Mode(소설 모드); particles follow 노벨 모드 (는/를/로). A novel is **소설**. The display-style label **Novel**(소설) takes 을/로 (노벨, ㄹ batchim).
+- A *passage* is **단락**; *paragraph* is **문단**. *Protagonist* is **주인공**; *manuscript* **원고**; *story bible* **이야기 설정 자료**; *cast* **등장인물**.
+- *Guidance* for the next passage is **지침**, matching **Stored guidance**(저장된 지침).
+- **Marinara's Novel Preset** is glossed (Marinara 소설 프리셋), particle 은/과 (프리셋). **Merged**(병합), from `ko.json` `Merged (Narrator)` → 병합 (나레이터).

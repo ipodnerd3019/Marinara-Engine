@@ -12,7 +12,7 @@ El roleplay también usa ayudantes llamados agentes. Un agente es una pequeña t
 
 No necesitas generación de imágenes para usar el Modo Roleplay. Sin ella, el modo sigue funcionando como chat solo de texto. Las ranuras de sprites quedan vacías, el fondo muestra un color sólido y el HUD sigue haciendo seguimiento de todo. Consulta [Conectarse a un proveedor de IA](../connections/connecting-to-a-provider.md) para configurar una conexión.
 
-Elige el Modo Roleplay cuando quieras una escena envolvente. Elige el [Modo Conversation](../conversation/getting-started.md) para un chat de mensajería sencillo. Elige el [Modo Game](../game/getting-started.md) para un juego de rol estructurado con grupo de aventura, combate y dados.
+Elige el Modo Roleplay cuando quieras una escena envolvente. Elige el [Modo Conversation](../conversation/getting-started.md) para un chat de mensajería sencillo. Elige el [Modo Game](../game/getting-started.md) para un juego de rol estructurado con grupo de aventura, combate y dados. Para escribir una historia en una sola página donde la IA también escribe a tu protagonista, empieza una [novela](novel-mode.md).
 
 ## Iniciar un roleplay
 

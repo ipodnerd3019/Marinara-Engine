@@ -12,7 +12,7 @@ Roleplay 还会用到一类叫智能体的帮手。智能体是跟着 AI 回复�
 
 不开图像生成也能用 Roleplay 模式。没有图像生成时，这个模式就是纯文字聊天：立绘位留空，背景显示为纯色，HUD 照样正常追踪。配置连接的方法见[连接 AI 服务商](../connections/connecting-to-a-provider.md)。
 
-想要沉浸式场景就选 Roleplay 模式。想要普通的消息式聊天，选 [Conversation 模式](../conversation/getting-started.md)。想要带队伍、战斗和骰子的结构化角色扮演游戏，选 [Game Mode](../game/getting-started.md)。
+想要沉浸式场景就选 Roleplay 模式。想要普通的消息式聊天，选 [Conversation 模式](../conversation/getting-started.md)。想要带队伍、战斗和骰子的结构化角色扮演游戏，选 [Game Mode](../game/getting-started.md)。想在一整页上写故事，并让 AI 连你的主角也一起写，就改为开始一部[小说](novel-mode.md)。
 
 ## 开始一段角色扮演
 

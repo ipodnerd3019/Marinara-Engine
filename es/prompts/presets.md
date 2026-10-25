@@ -10,7 +10,7 @@ Los presets dan forma al prompt (instrucciones enviadas a la IA) en los chats de
 
 Los presets no necesitan una API key (clave de API) ni una cuenta. Solo describen cómo se arma un prompt. Aún necesitas una conexión que funcione para enviar el prompt. Consulta [Conectar con un proveedor de IA](../connections/connecting-to-a-provider.md).
 
-El **Marinara's Universal Preset** integrado proporciona el texto del prompt sin asignar parámetros de generación. Sus ajustes antiguos guardados de muestreo, razonamiento, formato y tokens se ignoran. Siguen aplicándose los ajustes de conexión, las sustituciones del chat y los valores predeterminados de Engine. Crea una copia editable para personalizar el preset.
+Los presets integrados, **Marinara's Universal Preset** y **Marinara's Novel Preset**, proporcionan el texto del prompt sin asignar parámetros de generación. Sus ajustes antiguos guardados de muestreo, razonamiento, formato y tokens se ignoran. Siguen aplicándose los ajustes de conexión, las sustituciones del chat y los valores predeterminados de Engine. Los presets integrados son de solo lectura y no se pueden eliminar. Crea una copia editable para personalizar uno. Los chats nuevos usan Marinara's Universal Preset de forma predeterminada; [Novel Mode](../roleplay/novel-mode.md) usa Marinara's Novel Preset.
 
 ## Abrir el Preset Editor
 

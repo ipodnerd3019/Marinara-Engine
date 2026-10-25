@@ -679,3 +679,12 @@ Cycle precedent for #7763 (`media/tts-setup.md`).
 - **Enable emotion indicators**(启用情绪提示)
 
 These are translation choices, not a new native-reader review.
+
+## Novel Mode (2026-10-24)
+
+Precedent from the Novel Mode sync (`roleplay/novel-mode.md`, plus the built-in preset lines in `prompts/presets.md`, `prompts/generation-parameters.md` and `roleplay/getting-started.md`). Machine-translated; pending native review.
+
+- **Novel Mode** stays Latin, glossed once as Novel Mode(小说模式); a novel is **小说**. The display-style label **Novel** is glossed (小说).
+- A *passage* is **片段**; *paragraph* stays **段落**. *Protagonist* is **主角**; *manuscript* **手稿**; *story bible* **故事设定集**; *cast* **角色阵容**.
+- *Guidance* for the next passage is **引导**, matching **Stored guidance**(已保存的引导).
+- **Marinara's Novel Preset** is glossed (Marinara 小说预设). **Merged** is glossed (合并).

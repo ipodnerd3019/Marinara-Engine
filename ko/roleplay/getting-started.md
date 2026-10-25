@@ -12,7 +12,7 @@ Roleplay는 에이전트라는 보조 기능도 함께 씁니다. 에이전트�
 
 Roleplay Mode를 쓰는 데 이미지 생성이 반드시 필요하지는 않습니다. 이미지 생성이 없어도 텍스트 전용 채팅으로 잘 작동합니다. 스프라이트 자리는 비어 있고, 배경은 단색으로 표시되며, HUD는 그대로 모든 값을 기록합니다. 연결을 설정하려면 [AI 제공자에 연결하기](../connections/connecting-to-a-provider.md)를 참고하세요.
 
-몰입감 있는 장면을 원할 때는 Roleplay Mode를 고르세요. 평범한 메시지 채팅에는 [Conversation Mode: 시작하기](../conversation/getting-started.md)가 맞습니다. 파티, 전투, 주사위가 있는 짜임새 있는 롤플레잉 게임을 원하면 [Game Mode](../game/getting-started.md)를 고르세요.
+몰입감 있는 장면을 원할 때는 Roleplay Mode를 고르세요. 평범한 메시지 채팅에는 [Conversation Mode: 시작하기](../conversation/getting-started.md)가 맞습니다. 파티, 전투, 주사위가 있는 짜임새 있는 롤플레잉 게임을 원하면 [Game Mode](../game/getting-started.md)를 고르세요. AI가 주인공까지 쓰는 한 페이지짜리 이야기를 쓰고 싶다면 [Novel Mode](novel-mode.md)로 소설을 시작하세요.
 
 ## 롤플레이 시작하기
 

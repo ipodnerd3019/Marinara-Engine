@@ -729,3 +729,12 @@ Precedent from the #7763 mirror (`media/tts-setup.md`) against `staging` `5ae55e
 - **Enable emotion indicators** is glossed (включить пометки эмоций).
 
 These are documented translation choices from this sync, not an independent native-reader review.
+
+## Novel Mode (2026-10-24)
+
+Precedent from the Novel Mode sync (`roleplay/novel-mode.md`, plus the built-in preset lines in `prompts/presets.md`, `prompts/generation-parameters.md` and `roleplay/getting-started.md`). Machine-translated; pending native review.
+
+- **Novel Mode** stays in Latin script and undeclined; a novel is **роман**. The display-style label **Novel** is glossed (роман).
+- A *passage* is **фрагмент**; *paragraph* stays **абзац**. *Protagonist* is **протагонист** (not *главный герой*: `герой` is banned for *character*); *manuscript* **рукопись**; *story bible* **библия истории**; *cast* **действующие лица**.
+- *Guidance* for the next passage is **указание**; **Stored guidance** keeps the pack gloss (сохраненное направление).
+- **Marinara's Novel Preset** is glossed once per file as (пресет Marinara для романов), matching the Universal Preset's gloss. **Merged** is glossed (объединенный).

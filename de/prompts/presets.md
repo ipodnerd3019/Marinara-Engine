@@ -10,7 +10,7 @@ Presets formen den Prompt für **Roleplay**- und **Game**-Chats. Der **Conversat
 
 Presets brauchen weder API-Key (geheimer Zugangscode, ähnlich einem Passwort) noch Konto. Sie beschreiben nur, wie ein Prompt aufgebaut wird. Zum Senden brauchst du trotzdem eine funktionierende Verbindung. Siehe [Verbindung zu einem KI-Anbieter herstellen](../connections/connecting-to-a-provider.md).
 
-Das integrierte **Marinara's Universal Preset** liefert Prompt-Text, ohne Generierungsparameter zuzuweisen. Seine älteren gespeicherten Einstellungen für Sampling, Reasoning, Formatierung und Tokens werden ignoriert. Verbindungseinstellungen, Chat-Überschreibungen und Engine-Standardwerte gelten weiterhin. Erstelle eine bearbeitbare Kopie, um das Preset anzupassen.
+Die integrierten Presets **Marinara's Universal Preset** und **Marinara's Novel Preset** liefern Prompt-Text, ohne Generierungsparameter zuzuweisen. Ihre älteren gespeicherten Einstellungen für Sampling, Reasoning, Formatierung und Tokens werden ignoriert. Verbindungseinstellungen, Chat-Überschreibungen und Engine-Standardwerte gelten weiterhin. Integrierte Presets sind schreibgeschützt und lassen sich nicht löschen. Erstelle eine bearbeitbare Kopie, um eines davon anzupassen. Neue Chats nutzen standardmäßig Marinara's Universal Preset; [Novel Mode](../roleplay/novel-mode.md) nutzt Marinara's Novel Preset.
 
 ## Den Preset Editor öffnen
 
